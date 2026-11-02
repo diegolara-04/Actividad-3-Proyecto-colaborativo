@@ -6,9 +6,9 @@
 **Actividad:** Proyecto colaborativo
 
 **Integrantes:** 
-Jefferson Restrepo
-Santiago Otalora
-Diego Lara 
+-Jefferson Restrepo
+-Santiago Otalora
+-Diego Lara 
 
 
 **Tema:** Investigación de funciones básicas de Python 
