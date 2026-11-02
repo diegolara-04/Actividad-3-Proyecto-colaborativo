@@ -7,11 +7,11 @@
 
 **Integrantes:** 
 
--Jefferson Restrepo
+- Jefferson Restrepo
 
--Santiago Otalora
+- Santiago Otalora
 
--Diego Lara 
+- Diego Lara 
 
 
 **Tema:** Investigación de funciones básicas de Python 
