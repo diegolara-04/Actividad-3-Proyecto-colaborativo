@@ -11,7 +11,7 @@ Santiago Otalora
 Diego Lara 
 
 
-**Tema:** Investigación de funciones básicas de Python (01 al 10)
+**Tema:** Investigación de funciones básicas de Python 
 
 ## Introducción
 Python es un lenguaje de programación ampliamente utilizado en diferentes áreas de la tecnología, especialmente en Ciencia de Datos. Cuenta con funciones incorporadas que permiten realizar operaciones, manipular información y desarrollar programas de manera sencilla.
