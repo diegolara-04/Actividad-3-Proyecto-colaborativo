@@ -1,7 +1,7 @@
 # Tutorial de funciones básicas de Python
 
 
-**Materia:** Introducción a la Investigación
+**Materia:** Introducción a la ciencia de datos - Clase 5932
 
 **Actividad:** Proyecto colaborativo
 
