@@ -6,6 +6,7 @@
 **Actividad:** Proyecto colaborativo
 
 **Integrantes:** 
+
 -Jefferson Restrepo
 -Santiago Otalora
 -Diego Lara 
