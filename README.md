@@ -32,9 +32,9 @@ Investigar y aplicar 30 funciones básicas de Python, comprendiendo su utilidad 
 
 ## Distribución del trabajo
 
-- Diego Lara: Funciones 1 a 10.
-- Jefferson Restrepo: Funciones 11 a 20.
-- Santiago Otalora: Funciones 21 a 30.
+- **Diego Lara:** Funciones 1 a 10.
+- **Jefferson Restrepo:** Funciones 11 a 20.
+- **Santiago Otalora:** Funciones 21 a 30.
 
 ## Herramientas utilizadas
 
